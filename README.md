@@ -1,5 +1,7 @@
 # tweeter
 
+You Can Tweet with Twitter V2 API
+
 generate token file
  - 1st line
    - consumerKey
